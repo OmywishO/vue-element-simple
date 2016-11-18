@@ -1,3 +1,4 @@
 I'm learning GitHub.
 git checkout -b dev.创建一个新的分支。
 resolve bug.
+wish resolve a bug-101.
