@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "sourceMap": true,
+    "strict": true,
+    "jsx": "preserve",
+    "moduleResolution": "node",
+    "paths": {
+      "/@/*": ["./src/*"]
+    }
+  }
+}
