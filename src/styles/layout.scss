@@ -1,9 +1,0 @@
-#app {
-  // 滚动条隐藏
-  .app-main {
-    flex: 1;
-    .el-scrollbar__wrap {
-      overflow-x: hidden;
-    }
-  }
-}
